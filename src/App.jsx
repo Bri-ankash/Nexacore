@@ -14,7 +14,6 @@ import BuiltForKenya from './components/BuiltForKenya'
 import About from './components/About'
 import Portfolio from './components/Portfolio'
 import Estimator from './components/Estimator'
-import CTABanner from './components/CTABanner'
 import Pricing from './components/Pricing'
 import Process from './components/Process'
 import FAQ from './components/FAQ'
@@ -50,7 +49,6 @@ function MainSite(){
       <WhyUs/>
       <Industries/>
       <BuiltForKenya/>
-      <CTABanner/>
       <About/>
       <Portfolio/>
       <Estimator/>
