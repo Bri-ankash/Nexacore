@@ -76,12 +76,12 @@ export default function Reviews(){
           <h2 style={{fontFamily:'Urbanist,sans-serif',fontSize:'clamp(24px,4vw,36px)',fontWeight:800,letterSpacing:'-1px',marginBottom:8}}>Talk to Brian Directly</h2>
           <p style={{color:'var(--muted)',fontSize:15,lineHeight:1.75,fontWeight:300,maxWidth:480,margin:'0 auto 32px'}}>Have a project in mind? I respond within 2 hours. No middlemen, no agencies — just me and your project.</p>
           <div style={{display:'flex',gap:14,justifyContent:'center',flexWrap:'wrap'}}>
-            <a href="https://wa.me/254746971739?text=Hi%20Brian%2C%20I%20found%20Kaliworks%20Technologies%20and%20I%27d%20like%20to%20discuss%20a%20project"
+            <a href="https://wa.me/254746951739?text=Hi%20Brian%2C%20I%20found%20Kaliworks%20Technologies%20and%20I%27d%20like%20to%20discuss%20a%20project"
               target="_blank"
               style={{background:'#25D366',color:'#fff',padding:'12px 28px',borderRadius:10,fontWeight:700,fontSize:14,display:'flex',alignItems:'center',gap:8,boxShadow:'0 0 30px rgba(37,211,102,0.25)'}}>
               <span>💬</span> WhatsApp Brian
             </a>
-            <a href="tel:+254746971739"
+            <a href="tel:+254746951739"
               style={{background:'var(--blue)',color:'#000',padding:'12px 28px',borderRadius:10,fontWeight:700,fontSize:14,display:'flex',alignItems:'center',gap:8}}>
               <span>📞</span> Call Brian
             </a>
