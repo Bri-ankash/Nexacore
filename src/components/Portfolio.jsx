@@ -1,6 +1,17 @@
 import { useState } from 'react'
 
 const projects=[
+    {
+      icon:'🐼',
+      bg:'linear-gradient(135deg,#0a2010,#0e3020,#1a4030)',
+      cat:'SaaS Platform',
+      title:'Smart Pochi',
+      desc:'M-Pesa financial intelligence SaaS. Upload statements, analyze income/expenses, track goals, loans, suppliers and more.',
+      long:'Smart Pochi is a full financial intelligence platform for Kenyan businesses. Upload your M-Pesa PDF or CSV and get money in/out analysis, profit/loss, health score, tax estimates, cash flow forecasts, loan calculator and invoice generator. Normal KES 1,500/month, Premium KES 3,500/month.',
+      tags:['FastAPI','SQLite','Python','M-Pesa'],
+      link:'https://smart-pochi.onrender.com',
+      status:'live'
+    },
   {
     img:'https://i.ibb.co/placeholder/chamanakash.jpg',
     useImg:false,
